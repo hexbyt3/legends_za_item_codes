@@ -6,6 +6,8 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Created the repo!
 - Uploaded item codes for most items.
 
+---
+
 ### October 15th
 #### New
 - Added item code for the `Elevator Key` key item.
@@ -22,12 +24,16 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Corrected inventory hex value of `Lumoise Galette` in item list.
 - Added fossil items and hex values to item list, as they had been mistakenly omitted when the list was created.
 
+---
+
 ### October 16th
 #### Updates
 - Added `TM04` item code to the TMs file.
 - Added `TM04` and its inventory hex value to the item list.
 #### Fixes
 - Fixed some incomplete TM names in the item list.
+
+---
 
 ### October 17th
 #### New
@@ -40,6 +46,8 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 #### Fixes
 - Corrected category value on TM and Mega Stone item codes.
 
+---
+
 ### October 18th
 #### New
 - Added FAQ page.
@@ -49,12 +57,16 @@ Here's a list of updates and changes made to this repo, sorted by date. Please r
 - Removed section tags from item code files, as they do not work with emulators and seemed to be causing more harm than good.
 - Added encounter codes for all Vivillon patterns.
 
+---
+
 ### October 22nd
 #### Updates
 - Added encounter codes for all Floette and Florges formes, including Eternal Floette
 #### Fixes
 - Corrected value on `Red Canari Plush #3` key item code. Resolves issue #1.
 - Corrected label typo on `Revitalizing Twig` key item code. Resolves issue #1.
+
+---
 
 ### November 16th
 #### New
